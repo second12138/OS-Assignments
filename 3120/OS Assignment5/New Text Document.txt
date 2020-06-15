@@ -1,0 +1,2 @@
+complie the code: gcc -o A5 A5.c
+run the code: ./A5
