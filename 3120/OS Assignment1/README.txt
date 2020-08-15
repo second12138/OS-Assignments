@@ -1,8 +1,2 @@
-To run the code:
-
-1.complie: gcc -o prog prog.c
-2.run ./prog
-
-Existing problem:
-
- Sometimes. it requires input "exit" for several times to end the program.
+To compile the code: gcc -pthread A2.c -o A2
+To run the code: ./A2
